@@ -1,0 +1,27 @@
+#float {
+  float: none;
+}
+
+#float1 {
+  float: left;
+  margin-left: 5%;
+}
+
+#float2 {
+  float: right;
+  margin-right: 5%;
+}
+
+.painting {
+  height: 250px;
+  border-radius: 20px;
+  border: 10px solid #F5CB5C;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+div {
+  text-align: center;
+}
